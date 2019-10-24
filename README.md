@@ -1,4 +1,4 @@
-# BananaAI: A Paper To Be Named Later
+# BananaAI: Pepper Bot to PowerAI Vision
 
 **Document Authors:** Jonathan Clow, Wenxin Elina Liu, Jun Yu  
 **Project Members:** Jonathan Clow, Ian Dominguez, Wenxin Elina Liu, Daniel Ruiz, Jared Ryan, Jun Yu  
@@ -198,11 +198,9 @@ We do not have metrics for how quickly Pepper received the response from PowerAI
 #### Competition Results
 At the final Developer Slam Challenge presentation, the BananaAI team won one of the Cohort Favorite votes.
 
-![](images/pika.jpeg)
-
 ## Video Demonstration
 
-![](images/what_banana.jpg)
-
+Unable to add video to README.md document.
+The videos are uploaded and can be found in images/demo_banana.mp4 and images/demo_flower_pen.mp4
 ![True Positive Demo](images/demo_banana.mp4)
 ![True Negative Demo](images/demo_flower_pen.mp4)
